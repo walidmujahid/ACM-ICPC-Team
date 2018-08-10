@@ -1,6 +1,5 @@
 from os import listdir
 from itertools import combinations
-import timeit
 
 
 def possible_team_formations_based_on_max_proficiency(arr: list):
